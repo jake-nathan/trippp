@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>title</title>
+    
+    <link href="https://fonts.googleapis.com/css?family=Kavivanar|Raleway:400i,900i" rel="stylesheet">
+  </head>
+  <body>
+
+  <style> 
+  p {
+  	text-align: center;
+
+  }
+
+  div.jake {
+ 	font-family: 'Raleway', sans-serif;
+  	margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+  }
+
+  div.justwidth {
+  	
+  	font-family: 'Kavivanar', cursive;
+  	margin: auto;
+    width: 50%;
+    text-align: center;
+
+  }
+
+  figure {
+    display: inline-block;
+    
+    margin: 20px; /* adjust as needed */
+}
+figure img {
+    vertical-align: top;
+}
+figure figcaption {
+    
+    text-align: center;
+}
+  </style>
+
+  <div class = "justwidth" >
+  <h1> Jake's Spring Break Adventure! </h1>
+  
+  <h2> A trip throughout the Western US.</h2>
+  <h3> March 2018 </h3>
+  </div>
+  
+
+
+  <div class = "jake">
+  <figure>
+  	<img width = 100% src="arch.jpg">
+  	<p> This is a beautiful arch that we saw. Jaime took this incredible picture. </p> 
+  </figure>
+  </div>
+  <br>
+  <div class = "jake">
+  <figure>
+  	<img width = 100% src="tent.jpg">
+  	<p>We slept many nights in these tents. It was cold. Brrrr!</p> 
+  </figure>
+  </div>
+  <br>
+  <div class = "jake">
+  <figure>
+  	<img width = 100% src="friend.jpg">
+  	<p>Great friends and great places. Gonna miss these people a lot!</p> 
+  </figure>
+  </div>
+  <br>
+  <div class = "jake">
+  <figure>
+  	<img width = 100% src="dune.jpg">
+  	<p>White sands was so much fun. I got so little sleep but # worth !!</p> 
+  </figure>
+  </div>
+  <br>
+  <div class = "jake">
+  <figure>
+  	<img width = 100% src="bend.jpg">
+  	<p>Horshoe bend is prettier than what you see on those Facebook videos :)</p> 
+  </figure>
+  </div>
+  <br>
+
+
+
+
+  </body>
+</html>
